@@ -1,5 +1,7 @@
 
 
+This my admin login http://127.0.0.1:8000/admin/login
+This my user login http://127.0.0.1:8000/user/login
 
 
 
